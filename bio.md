@@ -6,5 +6,6 @@ _i think_
 ##Programming Background
 i've made some things:
 ----------------------
-* the internet
-* safety toed shoes
+* Bale Accumulator
+* Bow Level Detection
+* Wafer Handling Control Platform
