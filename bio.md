@@ -4,3 +4,7 @@ _i think_
 *just barely a man*
 
 ##Programming Background
+i've made some things:
+----------------------
+* the internet
+* safety toed shoes
